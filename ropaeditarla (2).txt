@@ -51,6 +51,8 @@ http://138.121.114.91:8000/play/a05x/index.m3u8
 http://45.238.54.67:8000/play/a01m/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Varios",25-Canal 26 HD
 http://181.209.37.74:8001/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="26TV.ar" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:0 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png" group-title="Varios",26-Cronica TV
 http://138.121.114.91:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png" group-title="Varios",27-Cronica SD
