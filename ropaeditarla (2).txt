@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal 9 Televida HD" tvg-logo="https://ejemplo.com/logos/televida.png" group-title="Canales de Aire",Canal 9 Televida (Mendoza)
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",1-Telefe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Canal_9_Televida_Mendoza.png" group-title="Canales de Aire",Canal 9 Televida Mendoza
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",1-Telefe
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",2-Telefe HD
 http://45.238.54.67:8000/play/b02e/index.m3u8
